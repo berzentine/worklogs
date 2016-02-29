@@ -1,6 +1,7 @@
 # 29 Feb
 
 >Brief:
+
 - Added suggestions to the survey designed by Kushan and designed the form.
 - Mailed the academic committee for the survey forms and sent out a mass mail
 - MOM all till 29 Feb. (8 MOM's)
@@ -11,8 +12,6 @@
 - SRS reviewed final version 1.
 - SRS appendix added.
 - SDLC contributed two sections
-
-
 
 ### Work
 
